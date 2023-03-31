@@ -1,9 +1,9 @@
 # Managing-Heterogeneous-Data-Challenge
 
 ## Champions:	
-Michiel van Wijk, TenneT
-Pablo Vicente Legazpi, BDTA
-Mathias Bonduel, Neanex
+-Michiel van Wijk, TenneT
+-Pablo Vicente Legazpi, BDTA
+-Mathias Bonduel, Neanex
 ## Number of people per team: 4-5
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
@@ -38,7 +38,7 @@ Viewer for visualizing the OTL such as http://vowl.visualdataweb.org/webvowl-old
 Visualization: the list of data visualization tools curated by Vladimir Alexiev, basic statistical SPARQL queries
 
 ## References: 
--Understanding CDEs: https://www.bvbs.de/wp-content/uploads/2019/04/Pr%C3%A4sentation_Hartmann__DIN_SPEC_91391.pdf
--ISO 21597, 
--19650, 
--DIN SPEC 91391
+- Understanding CDEs: https://www.bvbs.de/wp-content/uploads/2019/04/Pr%C3%A4sentation_Hartmann__DIN_SPEC_91391.pdf
+- ISO 21597, 
+- 19650, 
+- DIN SPEC 91391
