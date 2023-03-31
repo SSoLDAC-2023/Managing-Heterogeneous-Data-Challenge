@@ -1,9 +1,9 @@
 # Managing-Heterogeneous-Data-Challenge
 
 ## Champions:	
--Michiel van Wijk, TenneT
--Pablo Vicente Legazpi, BDTA
--Mathias Bonduel, Neanex
+- Michiel van Wijk, TenneT
+- Pablo Vicente Legazpi, BDTA
+- Mathias Bonduel, Neanex
 ## Number of people per team: 4-5
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
