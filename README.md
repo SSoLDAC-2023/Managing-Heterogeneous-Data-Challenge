@@ -2,7 +2,7 @@
 ## Champions:	
 - Michiel van Wijk, TenneT
 - Pablo Vicente Legazpi, BDTA
-- Mathias Bonduel, Neanex
+
 ## Number of people per team: 
 4-5
 ## Anticipated workload:
