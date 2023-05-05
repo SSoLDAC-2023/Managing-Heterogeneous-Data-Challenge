@@ -34,11 +34,13 @@ Managing heterogeneous data: 1) View and assess the different data provided in t
 visualization: 1) Make a list of available tools/methods for dataset visualization and understanding. 2) Evaluate the performance of these tools/methods to get an understanding of the content. 3) Query the dataset using SPARQL, applying the gathered knowledge. 4) Make recommendations and/or extensions to existing tooling.
 
 ## Tools needed:
-Viewer for visualizing the OTL such as http://vowl.visualdataweb.org/webvowl-old/webvowl-old.html and open-source SPARQL querying tools for querying the RDF data such as https://madsholten.github.io/sparql-visualizer/
-Visualization: the list of data visualization tools curated by Vladimir Alexiev, basic statistical SPARQL queries
+- Viewer for visualizing the OTL such as http://vowl.visualdataweb.org/webvowl-old/webvowl-old.html 
+- Open-source SPARQL querying tools for querying the RDF data such as https://madsholten.github.io/sparql-visualizer/
+- Visualization: [list of data visualization tools curated by Vladimir Alexiev](https://docs.google.com/document/d/1guwFHi9p4-ujFkrHF6dwMUZndzCmlX_gPyiBi6JlPTs/edit), basic statistical SPARQL queries
 
 ## References: 
+- ISO 21597: Information container for linked document delivery - Exchange specification (ICDD)
+- ISO 19650: Organization and digitization of information about buildings and civil engineering works, including building information modelling (BIM) — Information management using building information modelling 
+- DIN SPEC 91391: Common Data Environments for BIM Projects - Function Sets and open Data Exchange between Platforms of different Vendors
 - Understanding CDEs: https://www.bvbs.de/wp-content/uploads/2019/04/Pr%C3%A4sentation_Hartmann__DIN_SPEC_91391.pdf
-- ISO 21597, 
-- 19650, 
-- DIN SPEC 91391
+- ICDD with Solid: https://www.researchgate.net/publication/335947234_Towards_a_Decentralised_Common_Data_Environment_using_Linked_Building_Data_and_the_Solid_Ecosystem
