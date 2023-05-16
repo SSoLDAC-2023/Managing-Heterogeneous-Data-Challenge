@@ -1,4 +1,4 @@
-# Challenge: Managing heterogeneous interlinked data
+# Challenge: Managing heterogeneous data
 ## Champions:	
 - Michiel van Wijk, TenneT
 - Pablo Vicente Legazpi, BDTA
