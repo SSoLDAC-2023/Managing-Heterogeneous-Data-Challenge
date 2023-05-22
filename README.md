@@ -25,7 +25,7 @@ How can such interlinked data be visualized, so that patterns are not missed dur
 - OTL (as a turtle file)
 - Spreadsheet of Assets in the Asset Register,
 - Spreadsheet of Documents (and their meta-data), 
-- BIM model (IFC - download here https://drive.google.com/file/d/1fGM48cZI8wtvXsa2Wi80p3qnD8IvK6Jj/view?usp=share_link)
+- BIM model (IFC - [download here](https://drive.google.com/file/d/1fGM48cZI8wtvXsa2Wi80p3qnD8IvK6Jj/view?usp=share_link))
 - Permit documents (as pdfs)		
 
 ## Challenge instructions:
