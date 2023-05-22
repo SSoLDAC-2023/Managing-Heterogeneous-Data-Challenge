@@ -25,13 +25,20 @@ How can such interlinked data be visualized, so that patterns are not missed dur
 - OTL (as a turtle file)
 - Spreadsheet of Assets in the Asset Register,
 - Spreadsheet of Documents (and their meta-data), 
-- BIM model (IFC, Navisworks),
+- BIM model (IFC - download here https://drive.google.com/file/d/1fGM48cZI8wtvXsa2Wi80p3qnD8IvK6Jj/view?usp=share_link)
 - Permit documents (as pdfs)		
 
 ## Challenge instructions:
 There are no restrictions on the reference material to be used. Original ideas for management of heterogeneous data are also encouraged. 
-Managing heterogeneous data: 1) View and assess the different data provided in this challenge and their points of commonality. 2) Think about how these data would be linked in a conventional project where domain experts have knowledge.
-visualization: 1) Make a list of available tools/methods for dataset visualization and understanding. 2) Evaluate the performance of these tools/methods to get an understanding of the content. 3) Query the dataset using SPARQL, applying the gathered knowledge. 4) Make recommendations and/or extensions to existing tooling.
+Managing heterogeneous data: 
+1) View and assess the different data provided in this challenge and their points of commonality. 
+2) Think about how these data would be linked in a conventional project where domain experts have knowledge.
+
+visualization: 
+1) Make a list of available tools/methods for dataset visualization and understanding. 
+2) Evaluate the performance of these tools/methods to get an understanding of the content. 
+3) Query the dataset using SPARQL, applying the gathered knowledge. 
+4) Make recommendations and/or extensions to existing tooling.
 
 ## Tools needed:
 Viewer for visualizing the OTL such as http://vowl.visualdataweb.org/webvowl-old/webvowl-old.html and open-source SPARQL querying tools for querying the RDF data such as https://madsholten.github.io/sparql-visualizer/
