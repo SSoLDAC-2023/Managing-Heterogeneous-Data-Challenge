@@ -8,9 +8,12 @@
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
 ## Challenge description:
-In large projects, multiple data structures such as OTLs, System Breakdown Structure (SBS), Work Breakdown Structures (WBS) are used for managing asset data during the project lifecycle. Each of these data are heterogeneous, i.e. structured differently and must be interconnected to both the BIM models and both relevant documents and drawings. The models and documents thus interconnected as used for both documentation management during the construction phase and also during the handover phase. 
+In large projects, multiple data structures such as OTLs (Ontologies), System Breakdown Structure (SBS), Work Breakdown Structures (WBS) are used for managing asset data during the project lifecycle. Each of these data are heterogeneous, i.e. structured differently and must be interconnected to both the BIM models and both relevant documents and drawings. The models and documents thus interconnected as used for both documentation management during the construction phase and also during the handover phase. 
+
 Usually, the Asset Register (a RDBMS structure) contains pre-loaded meta-data about objects (i.e. Assets) in a project. One such meta-data is the “Linked Object type” which points to the corresponding class in an OTL, which is externally stored. This OTL database contains a comprehensive list of all possible objects an asset can have along with their common attributes. And each of these objects point to a set of document IDs (along with meta-data such as document title). These documents can be permit documents for the city administration. Furthermore, a BIM model which contains elements from the Asset Register is also uploaded to a central CDE. 
+
 If the “Linked Object type” is a queryable attribute, how can the four different data sources (Asset Register, OTL, BIM model, and documents) be linked, such both the asset data and the connected document data are always up-to-date? 
+
 ## Challenger research questions:
 Main research question: How should such a distributed system which uses heterogeneous backend data structuring, be configured so that it can seamlessly capture and maintain up-to-date information, at all times?
 
