@@ -5,8 +5,10 @@
 
 ## Number of people per team: 
 4-5
+
 ## Anticipated workload:
 approx. 24 hours per person, including the time for preparation of the presentation
+
 ## Challenge description:
 In large projects, multiple data structures such as OTLs (Ontologies), System Breakdown Structure (SBS), Work Breakdown Structures (WBS) are used for managing asset data during the project lifecycle. Each of these data are heterogeneous, i.e. structured differently and must be interconnected to both the BIM models and both relevant documents and drawings. The models and documents thus interconnected as used for both documentation management during the construction phase and also during the handover phase. 
 
@@ -15,7 +17,7 @@ Usually, the Asset Register (a RDBMS structure) contains pre-loaded meta-data ab
 If the “Linked Object type” is a queryable attribute, how can the four different data sources (Asset Register, OTL, BIM model, and documents) be linked, such both the asset data and the connected document data are always up-to-date? 
 
 ## Challenger research questions:
-Main research question: How should such a distributed system which uses heterogeneous backend data structuring, be configured so that it can seamlessly capture and maintain up-to-date information, at all times?
+Main research question: **How should such a distributed system which uses heterogeneous backend data structuring, be configured so that it can seamlessly capture and maintain up-to-date information, at all times?**
 
 What are the minimum data and provenance requirements that should be in place, for ensuring that the distributed system can function throughout the construction phase, where both the document versions and the BIM model will also be constantly changing?
 
@@ -24,6 +26,7 @@ What happens when the OTL and the Assets in the Asset Register are updated? How 
 How can permit documents be connected to the above?
 
 How can such interlinked data be visualized, so that patterns are not missed during querying? Can you propose some improvements to existing tooling with a proof-of-concept extension?
+
 ## Datasets available:  
 - OTL (as a turtle file)
 - Spreadsheet of Assets in the Asset Register,
