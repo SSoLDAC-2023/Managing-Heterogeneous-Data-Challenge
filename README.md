@@ -23,7 +23,7 @@ What are the minimum data and provenance requirements that should be in place, f
 
 What happens when the OTL and the Assets in the Asset Register are updated? How can impacts on the connected data be managed? 
 
-How can permit documents be connected to the above?
+How can official documents be connected to the above such that only some information are visible to the public? For example information such as author, site location etc.
 
 How can such interlinked data be visualized, so that patterns are not missed during querying? Can you propose some improvements to existing tooling with a proof-of-concept extension?
 
@@ -32,7 +32,7 @@ How can such interlinked data be visualized, so that patterns are not missed dur
 - Spreadsheet of Assets in the Asset Register,
 - Spreadsheet of Documents (and their meta-data), 
 - BIM model (IFC - [download here](https://drive.google.com/file/d/1fGM48cZI8wtvXsa2Wi80p3qnD8IvK6Jj/view?usp=share_link))
-- Permit documents (as pdfs)		
+- PDF documents (such as Fire protection report, accessibility reports)		
 
 ## Challenge instructions:
 There are no restrictions on the reference material to be used. Original ideas for management of heterogeneous data are also encouraged. 
